@@ -1,0 +1,7 @@
+{
+  "name": "Govee Lights",
+  "content_in_root": false,
+  "domain": "govee_lights",
+  "country": "any",
+  "homeassistant": "2023.9.0"
+}
